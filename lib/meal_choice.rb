@@ -4,4 +4,5 @@ def meal_choice(veg1, veg2, protein = 'meat')
 end
 
 order = meal_choice("broccoli", "macaroni") = true
-
+order
+ 
